@@ -1,0 +1,15 @@
+
+df1 = pd.DataFrame({"key": list("bbacaab"),  
+                    "data1": range(7)})
+df2 = pd.DataFrame({"key": list("abd"), 
+                    "data2": range(3)})
+=====================================
+
+df1 = pd.DataFrame({"key": list("bbacab"),  
+                    "data1": range(6)})
+df2 = pd.DataFrame({"key": list("ababd"), 
+                    "data2": range(5)})
+
+=====================================
+df1 = pd.DataFrame(np.arange(6).reshape(3, 2), 
+                   index=['a', 'b', 'c'], columns=['one', 'two']) 

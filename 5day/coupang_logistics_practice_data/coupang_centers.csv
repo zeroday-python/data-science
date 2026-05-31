@@ -1,0 +1,6 @@
+﻿center_id,center_name,city,province,capacity_orders_per_day,automation_level,workers_day_shift,workers_night_shift,lat,lon
+FC01,서울동부FC,서울,서울특별시,9000,High,420,360,37.53,127.12
+FC02,인천서부FC,인천,인천광역시,8200,Medium,390,340,37.48,126.66
+FC03,대구북부FC,대구,대구광역시,5800,Medium,280,230,35.91,128.61
+FC04,부산남부FC,부산,부산광역시,6400,Low,310,260,35.16,129.06
+FC05,광주호남FC,광주,광주광역시,4200,Low,210,180,35.18,126.88
